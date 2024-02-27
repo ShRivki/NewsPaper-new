@@ -1,0 +1,257 @@
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.exe
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.deps.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\ShopProject\obj\Debug\net6.0\ref\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.exe
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.deps.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.pdb
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\תכנות\דואט נט\NewsPaper\obj\Debug\net6.0\ref\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.sourcelink.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\appsettings.Development.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\appsettings.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.exe
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.deps.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\CsvHelper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Solid.Core.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Solid.Data.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Solid.Service.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Solid.Core.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Solid.Data.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\bin\Debug\net6.0\Solid.Service.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\staticwebassets.build.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\staticwebassets.development.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\staticwebassets.pack.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPaper\obj\Debug\net6.0\ref\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cs
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.sourcelink.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\appsettings.Development.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\appsettings.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.exe
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.deps.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\CsvHelper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Humanizer.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Core.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Data.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Service.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Core.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Data.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Service.pdb
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets.build.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets.development.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets.pack.json
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ref\ManagingANewspaper.dll
+D:\אחיותי היקרות\תמי\תכנות תמי\.NET\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\AutoMapper.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\appsettings.Development.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\appsettings.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.exe
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.deps.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.runtimeconfig.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\ManagingANewspaper.pdb
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\AutoMapper.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\CsvHelper.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Humanizer.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Core.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Data.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Service.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Core.pdb
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Data.pdb
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\bin\Debug\net6.0\Solid.Service.pdb
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.AssemblyReference.cache
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.GeneratedMSBuildEditorConfig.editorconfig
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfoInputs.cache
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.AssemblyInfo.cs
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CoreCompileInputs.cache
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cs
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.MvcApplicationPartsAssemblyInfo.cache
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.sourcelink.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets.build.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets.development.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.ManagingANewspaper.Microsoft.AspNetCore.StaticWebAssets.props
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.build.ManagingANewspaper.props
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ManagingANewspaper.props
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ManagingANewspaper.props
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\staticwebassets.pack.json
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\scopedcss\bundle\ManagingANewspaper.styles.css
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.csproj.CopyComplete
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\refint\ManagingANewspaper.dll
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.pdb
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ManagingANewspaper.genruntimeconfig.cache
+H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\NewsPaper\obj\Debug\net6.0\ref\ManagingANewspaper.dll
