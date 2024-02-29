@@ -30,29 +30,29 @@ namespace ManagingANewspaper.Controllers
 
         // GET api/<Customer>/5
         [HttpGet("{id}")]
-        public ActionResult Get(int id)
+        public async Task<ActionResult> Get(int id)
         {
-            var res = _editorService.GetByIdAsync(id);
+            var res = await _editorService.GetByIdAsync(id);
             var resDto=_mapper.Map<EditorDto>(res);
             return res!=null?Ok(resDto):NotFound(resDto);
         }
 
         // POST api/<Customer>
         [HttpPost]
-        public ActionResult Post([FromBody] EditorPostModel value)
+        public async Task<ActionResult> Post([FromBody] EditorPostModel value)
         {
             var editor = _mapper.Map<Editor>(value);
-            var res=_editorService.PostEditorAsync(editor);
+            var res=await _editorService.PostEditorAsync(editor);
             var resDto = _mapper.Map<EditorDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // PUT api/<Customer>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] EditorPostModel value)
+        public async Task<ActionResult> Put(int id, [FromBody] EditorPostModel value)
         {
             var editor = _mapper.Map<Editor>(value);
-            var res = _editorService.PutEditorAsync(id, editor);
+            var res =await _editorService.PutEditorAsync(id, editor);
             var resDto = _mapper.Map<EditorDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
 
@@ -60,9 +60,9 @@ namespace ManagingANewspaper.Controllers
 
         // DELETE api/<Customer>/5
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            var res = _editorService.DeleteEditorAsync(id);
+            var res = await _editorService.DeleteEditorAsync(id);
             var resDto = _mapper.Map<EditorDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }

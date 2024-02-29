@@ -30,45 +30,45 @@ namespace ManagingANewspaper.Controllers
         public async Task<ActionResult<IEnumerable<Designer>>> GetAsync()
         {
             var list= await _designerService.GetAllAsync();
-            var list1=list.Select(d=>_mapper.Map<DesingerDto>(d));
+            var list1=list.Select(d=>_mapper.Map<DesignerDto>(d));
             return Ok(list1);
         }
 
         // GET api/<Customer>/5
         [HttpGet("{id}")]
-        public ActionResult Get(int id)
+        public async Task<ActionResult> Get(int id)
         {
-            var res = _designerService.GetByIdAsync(id);
-            var resDto = _mapper.Map<DesingerDto>(res);
+            var res = await _designerService.GetByIdAsync(id);
+            var resDto = _mapper.Map<DesignerDto>(res);
             return resDto != null? Ok(resDto) : NotFound(resDto);
         }
 
         // POST api/<Customer>
         [HttpPost]
-        public ActionResult Post([FromBody] DesignerPostModel value)
+        public async Task<ActionResult> Post([FromBody] DesignerPostModel value)
         {
             var designer = _mapper.Map<Designer>(value);
-           var res= _designerService.PostDesignerAsync(designer);
-            var resDto = _mapper.Map<DesingerDto>(res);
+           var res=await _designerService.PostDesignerAsync(designer);
+            var resDto = _mapper.Map<DesignerDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // PUT api/<Customer>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] DesignerPostModel value)
+        public async Task<ActionResult> Put(int id, [FromBody] DesignerPostModel value)
         {
             var designer = _mapper.Map<Designer>(value);
-            var res= _designerService.PutDesignerAsync(id,designer);
-            var resDto = _mapper.Map<DesingerDto>(res);
+            var res= await _designerService.PutDesignerAsync(id, designer);
+            var resDto = _mapper.Map<DesignerDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // DELETE api/<Customer>/5
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            var res = _designerService.DeleteDesignerAsync(id);
-            var resDto = _mapper.Map<DesingerDto>(res);
+            var res =await _designerService.DeleteDesignerAsync(id);
+            var resDto = _mapper.Map<DesignerDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
     }

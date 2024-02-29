@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using ManagingANewspaper.models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Solid.Core.DTOs;
 using Solid.Core.Entities;
@@ -11,6 +12,7 @@ namespace ManagingANewspaper.Controllers
 {
     [Route("api/Articles")]
     [ApiController]
+    [Authorize]
     public class ArticleController : ControllerBase
     {
         // GET: api/<ValuesController>
@@ -34,38 +36,38 @@ namespace ManagingANewspaper.Controllers
 
         // GET api/<Customer>/5
         [HttpGet("{id}")]
-        public ActionResult Get(int id)
+        public async Task<ActionResult> Get(int id)
         {
-            var res = _articleService.GetByIdAsync(id);
+            var res = await _articleService.GetByIdAsync(id);
             var resDto = _mapper.Map<ArticleDto>(res);
             return resDto != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // POST api/<Customer>
         [HttpPost]
-        public ActionResult Post([FromBody] ArticlePostModel value)
+        public async Task<ActionResult> Post([FromBody] ArticlePostModel value)
         {
             var article = _mapper.Map<Article>(value);
-            var res = _articleService.PostArticleAsync(article);
+            var res = await _articleService.PostArticleAsync(article);
             var resDto = _mapper.Map<ArticleDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // PUT api/<Customer>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] ArticlePostModel value)
+        public async Task<ActionResult> Put(int id, [FromBody] ArticlePostModel value)
         {
             var article = _mapper.Map<Article>(value);
-            var res = _articleService.PutArticleAsync(id, article);
+            var res = await _articleService.PutArticleAsync(id, article);
             var resDto = _mapper.Map<ArticleDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // DELETE api/<Customer>/5
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            var res = _articleService.DeleteArticleAsync(id);
+            var res = await _articleService.DeleteArticleAsync(id);
             var resDto = _mapper.Map<ArticleDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }

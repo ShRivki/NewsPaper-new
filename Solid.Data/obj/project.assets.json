@@ -2064,23 +2064,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\Solid.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\Solid.Data.csproj",
       "projectName": "Solid.Data",
-      "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\Solid.Data.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\Solid.Data.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2089,15 +2089,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj": {
-              "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj"
+            "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj"
             }
           }
         }
@@ -2106,6 +2105,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -2137,15 +2139,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
+            "version": "[6.0.27, 6.0.27]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
+            "version": "[6.0.27, 6.0.27]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
+            "version": "[6.0.27, 6.0.27]"
           }
         ],
         "frameworkReferences": {
@@ -2153,7 +2155,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

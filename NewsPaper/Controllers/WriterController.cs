@@ -30,29 +30,29 @@ namespace ManagingANewspaper.Controllers
 
         // GET api/<Customer>/5
         [HttpGet("{id}")]
-        public ActionResult Get(int id)
+        public async Task<ActionResult> Get(int id)
         {
-            var res = _writerService.GetByIdAsync(id);
+            var res = await _writerService.GetByIdAsync(id);
             var resDto=_mapper.Map<WriterDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // POST api/<Customer>
         [HttpPost]
-        public ActionResult Post([FromBody] WriterPostModel value)
+        public async Task<ActionResult> Post([FromBody] WriterPostModel value)
         {
             var writer=_mapper.Map<Writer>(value);
-            var res = _writerService.PostWriterAsync(writer);
+            var res =await _writerService.PostWriterAsync(writer);
             var resDto = _mapper.Map<WriterDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }
 
         // PUT api/<Customer>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] WriterPostModel value)
+        public async Task<ActionResult> Put(int id, [FromBody] WriterPostModel value)
         {
             var writer = _mapper.Map<Writer>(value);
-            var res = _writerService.PutWriterAsync(id, writer);
+            var res =await _writerService.PutWriterAsync(id, writer);
             var resDto = _mapper.Map<WriterDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
 
@@ -60,9 +60,9 @@ namespace ManagingANewspaper.Controllers
 
         // DELETE api/<Customer>/5
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            var res = _writerService.DeleteWriterAsync(id);
+            var res = await _writerService.DeleteWriterAsync(id);
             var resDto = _mapper.Map<WriterDto>(res);
             return res != null ? Ok(resDto) : NotFound(resDto);
         }

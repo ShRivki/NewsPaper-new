@@ -12,7 +12,7 @@ namespace Solid.Core.Entities
         public int Id { get; set; }
         public string Subject { get; set; }
         public string Department { get; set; }
-
+        public int WriterId { get; set; }
         public Writer Writer { get; set; }
 
         public List<Designer> Designers { get; set; }

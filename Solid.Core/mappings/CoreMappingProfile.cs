@@ -9,7 +9,7 @@ namespace Solid.Core
     {
         public CoreMappingProfile()
         {
-            CreateMap<DesingerDto, Designer>().ReverseMap();
+            CreateMap<DesignerDto, Designer>().ReverseMap();
             CreateMap<WriterDto,Writer>().ReverseMap();
             CreateMap<EditorDto,Editor>().ReverseMap();
             CreateMap<ArticleDto, Article>().ReverseMap();

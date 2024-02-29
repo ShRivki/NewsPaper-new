@@ -5,7 +5,7 @@
         public string Subject { get; set; }
         public string Department { get; set; }
 
-      //  public Writer Writer { get; set; }
+        public int WriterId { get; set; }
 
     }
 }

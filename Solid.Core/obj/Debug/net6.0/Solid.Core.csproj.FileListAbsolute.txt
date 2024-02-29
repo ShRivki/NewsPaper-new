@@ -35,3 +35,16 @@ H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Core\obj\Debug\net6.0
 H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
 H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
 H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.sourcelink.json
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll

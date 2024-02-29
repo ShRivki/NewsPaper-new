@@ -13,8 +13,8 @@ namespace Solid.Core.DTOs
         public string Subject { get; set; }
         public string Department { get; set; }
 
-        public Writer Writer { get; set; }
+        public WriterDto Writer { get; set; }
 
-        public List<Designer> Designers { get; set; }
+        public List<DesignerDto> Designers { get; set; }
     }
 }

@@ -51,3 +51,21 @@ H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Service\obj\Debug\net
 H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
 H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
 H:\תשפ''ד ש.ב. תכנות\.net\NewsPapar+solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.sourcelink.json
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\ASUS\Desktop\NewsPapar\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll

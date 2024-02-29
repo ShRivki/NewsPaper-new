@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Service\\Solid.Service.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Service\\Solid.Service.csproj": {}
   },
   "projects": {
-    "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj",
         "projectName": "Solid.Core",
-        "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +38,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -64,15 +66,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             }
           ],
           "frameworkReferences": {
@@ -80,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\Solid.Data.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\Solid.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\Solid.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\Solid.Data.csproj",
         "projectName": "Solid.Data",
-        "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\Solid.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\Solid.Data.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -106,15 +108,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj"
               }
             }
           }
@@ -123,6 +124,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -154,15 +158,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             }
           ],
           "frameworkReferences": {
@@ -170,24 +174,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Service\\Solid.Service.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Service\\Solid.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Service\\Solid.Service.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Service\\Solid.Service.csproj",
         "projectName": "Solid.Service",
-        "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Service\\Solid.Service.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Service\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Service\\Solid.Service.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -196,18 +200,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Core\\Solid.Core.csproj"
               },
-              "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\Solid.Data.csproj": {
-                "projectPath": "G:\\תשפ''ד ש.ב. תכנות\\.net\\NewsPapar+solid\\Solid.Data\\Solid.Data.csproj"
+              "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\Solid.Data.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\NewsPapar\\Solid.Data\\Solid.Data.csproj"
               }
             }
           }
@@ -216,6 +219,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -235,15 +241,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.27, 6.0.27]"
             }
           ],
           "frameworkReferences": {
@@ -251,7 +257,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
