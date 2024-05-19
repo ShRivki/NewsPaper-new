@@ -6,6 +6,7 @@ using AutoMapper;
 using Solid.Core.DTOs;
 using ManagingANewspaper.models;
 using ManagingANewspaper.mappings;
+using Microsoft.AspNetCore.Authorization;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -13,6 +14,7 @@ namespace ManagingANewspaper.Controllers
 {
     [Route("api/Designers")]
     [ApiController]
+    [Authorize]
     public class DesignerController : ControllerBase
     {
         // GET: api/<Customer>

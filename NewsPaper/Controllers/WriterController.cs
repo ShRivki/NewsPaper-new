@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using ManagingANewspaper.models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Solid.Core.DTOs;
 using Solid.Core.Services;
@@ -10,6 +11,7 @@ namespace ManagingANewspaper.Controllers
 {
     [Route("api/Writers")]
     [ApiController]
+    [Authorize]
     public class WriterController : ControllerBase
     {
         private readonly IWriterService _writerService;
